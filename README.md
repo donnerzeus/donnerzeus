@@ -1,56 +1,61 @@
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20it's%20Barış&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=55&descSize=20)
+# Baris Delikaya
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Creative+Coder;Always+Learning" alt="Typing SVG" />
-  </a>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=260&section=header&text=Baris%20Delikaya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Full-stack%20Developer&descAlignY=56&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Laravel+%7C+PHP+%7C+Drupal;Production-ready+systems;API+integrations+and+data+flows;Maintainable+code+over+noise)](https://git.io/typing-svg)
 
 </div>
 
-<br />
+## About Me
 
-### 👨‍💻 About Me
-
-```javascript
-const baris = {
-    code: ["Javascript", "React", "HTML", "CSS", "Vite"],
-    tools: ["WebStorm", "Git", "Figma"],
-    architecture: ["SPA", "Responsive Design"],
-    currentFocus: "Building awesome web experiences 🚀",
-    challenge: "Learning Advanced Animations"
-};
+```php
+$baris = [
+    'location' => 'Istanbul, Turkiye',
+    'role' => 'Backend-focused Full-stack Developer',
+    'specialties' => ['Laravel', 'PHP', 'Drupal', 'Migration Projects'],
+    'focus' => ['Production Systems', 'API Integrations', 'Maintainable Architecture'],
+    'currently' => 'Building reliable systems with low error tolerance',
+];
 ```
 
-<br />
-
-### 🛠️ Languages & Tools
+## Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,vite,git,github,figma,vscode,webstorm,npm,yarn&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,mysql,postgres,redis,docker,git,linux&perline=6" alt="Core stack" />
 </div>
 
-<br />
+## What I Work On
 
-### 📊 GitHub Stats
+- Large-scale Drupal 7 to Drupal 10/11 migrations
+- Laravel backend development and API design
+- Debugging production issues and root-cause analysis
+- System integrations, data pipelines, and maintainable full-stack delivery
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=barisdelikaya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisdelikaya&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
+</div>
+
+## Current Focus
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,drupal,ts,react,docker&perline=6" alt="Current focus" />
+</div>
+
+## Contact
 
 <div align="center">
   <a href="https://github.com/barisdelikaya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barisdelikaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisdelikaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-barisdelikaya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<br />
-
-### 🌱 Currently Studying
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&perline=6" />
-</div>
 
-<br />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=110&section=footer)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </div>
